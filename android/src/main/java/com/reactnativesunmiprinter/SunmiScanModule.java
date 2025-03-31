@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.util.Log;
 import androidx.core.content.ContextCompat;
 import android.content.Context;
-import android.content.IntentFilter;
 import android.os.Build;
 
 import com.facebook.react.bridge.ActivityEventListener;
